@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678119449 source:c:\users\varga\documents\codeblocks\bac\gyakorlotetel1.3\main.cpp
+	<iostream>
+	<fstream>
+
