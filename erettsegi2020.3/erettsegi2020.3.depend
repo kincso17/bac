@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681551036 source:c:\users\varga\documents\codeblocks\bac\erettsegi2020.3\main.cpp
+	<iostream>
+	<fstream>
+
