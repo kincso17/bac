@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681563138 source:c:\users\varga\documents\codeblocks\bac\szimulalas2019.1\main.cpp
+	<iostream>
+	<cmath>
+
